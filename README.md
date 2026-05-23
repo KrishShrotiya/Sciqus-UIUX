@@ -48,8 +48,6 @@ python3 -m http.server 8000
 - **Responsive grid** using `grid-template-columns: repeat(4, 1fr);`.
 - **Consistent brand colors** via CSS custom properties (see `index.css`).
 
-## 📸 Preview
-![Homepage preview](/Users/krishshrotiya/.gemini/antigravity/brain/dad2e671-2531-41ef-9147-70707c0435aa/media__1779523155512.png)
 
 ## 🛠️ Development
 The project is intentionally lightweight – there is no build step. If you wish to extend it:
