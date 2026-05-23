@@ -54,6 +54,3 @@ The project is intentionally lightweight – there is no build step. If you wish
 1. Edit `index.html`, `index.css`, or `main.js` directly.
 2. Reload the browser (or your local server) to see changes.
 3. Commit & push your updates.
-
-## 📜 License
-This demo is provided for educational purposes. Feel free to fork, modify, and use it in your own projects.
